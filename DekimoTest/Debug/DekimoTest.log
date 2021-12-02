@@ -1,0 +1,16 @@
+﻿  CppCLR_WinformsProjekt.cpp
+C:\Users\niraj.roy\source\repos\DekimoTest\DekimoTest\CppCLR_WinformsProjekt.cpp(1,1): warning C4005: '__CLR_VER': macro redefinition
+C:\Users\niraj.roy\source\repos\DekimoTest\DekimoTest\pch.cpp : message : see previous definition of '__CLR_VER'
+C:\Users\niraj.roy\source\repos\DekimoTest\DekimoTest\CppCLR_WinformsProjekt.cpp(1,1): warning C4651: '/D__CLR_VER=40804341' specified for precompiled header but not for current compile
+C:\Users\niraj.roy\source\repos\DekimoTest\DekimoTest\MyForm.h(435,22): warning C4101: 'e': unreferenced local variable
+C:\Users\niraj.roy\source\repos\DekimoTest\DekimoTest\MyForm1.h(245,21): warning C4101: 'e': unreferenced local variable
+C:\Users\niraj.roy\source\repos\DekimoTest\DekimoTest\Form1.h(276,21): warning C4101: 'e': unreferenced local variable
+C:\Users\niraj.roy\source\repos\DekimoTest\DekimoTest\Form1.h(295,21): warning C4101: 'e': unreferenced local variable
+  MyForm.cpp
+C:\Users\niraj.roy\source\repos\DekimoTest\DekimoTest\MyForm.cpp(1,1): warning C4005: '__CLR_VER': macro redefinition
+C:\Users\niraj.roy\source\repos\DekimoTest\DekimoTest\pch.cpp : message : see previous definition of '__CLR_VER'
+C:\Users\niraj.roy\source\repos\DekimoTest\DekimoTest\MyForm.cpp(1,1): warning C4651: '/D__CLR_VER=40804341' specified for precompiled header but not for current compile
+C:\Users\niraj.roy\source\repos\DekimoTest\DekimoTest\MyForm.h(435,22): warning C4101: 'e': unreferenced local variable
+  Generating Code...
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  DekimoTest.vcxproj -> C:\Users\niraj.roy\source\repos\DekimoTest\Debug\DekimoTest.exe

@@ -1,0 +1,5 @@
+C:\Users\niraj.roy\source\repos\DekimoTest\DekimoTest\Debug\DekimoTest.vcxproj.AssemblyReference.cache
+C:\Users\niraj.roy\source\repos\DekimoTest\DekimoTest\Debug\DekimoTest.Form1.resources
+C:\Users\niraj.roy\source\repos\DekimoTest\DekimoTest\Debug\DekimoTest.MyForm.resources
+C:\Users\niraj.roy\source\repos\DekimoTest\DekimoTest\Debug\DekimoTest.vcxproj.GenerateResource.cache
+C:\Users\niraj.roy\source\repos\DekimoTest\DekimoTest\Debug\DekimoTest.MyForm1.resources
