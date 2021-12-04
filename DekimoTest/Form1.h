@@ -2,6 +2,7 @@
 #include "MyForm.h"
 #include "MyForm1.h"
 
+/* Comment for GitHub */
 namespace CppCLRWinformsProjekt {
 
 	using namespace System;
